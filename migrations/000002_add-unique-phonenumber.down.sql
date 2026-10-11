@@ -1,0 +1,2 @@
+ALTER TABLE todoapp.users
+DROP CONSTRAINT users_unique_phone_number
